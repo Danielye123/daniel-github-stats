@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-Really cool stats created by Jacob Strieb
+Really cool stats created by Jacob Strieb.
 Here is his github profile: https://github.com/jstrieb
 Check it out!
 
