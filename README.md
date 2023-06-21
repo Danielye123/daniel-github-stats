@@ -1,5 +1,9 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+Really cool stats created by Jacob Strieb
+Here is his github profile: https://github.com/jstrieb
+Check it out!
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
